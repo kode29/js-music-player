@@ -24,7 +24,7 @@ const songs = [
 
     },
     {
-        path: 'assets/mp3/for-future-base-159125.mp3',
+        path: 'assets/mp3/for-future-bass-159125.mp3',
         displayName: 'For Future Base',
         cover: 'assets/img/for future base.jpg',
         artist: 'The_Mountain',
