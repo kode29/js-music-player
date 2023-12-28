@@ -65,7 +65,7 @@ const songs = [
     },
     {
         path: 'assets/mp3/tvari-tokyo-cafe-159065.mp3',
-        displayName: 'Tpokyo Cafe',
+        displayName: 'Tokyo Cafe',
         cover: 'assets/img/tokyo cafe.jpg',
         artist: 'TVARI',
         // Music by <a href="https://pixabay.com/users/tvari-38302100/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=159065">TVARI</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=159065">Pixabay</a>
